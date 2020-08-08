@@ -1,6 +1,5 @@
 ### Hey , I'm Rahul!
 
-![Hey there, I'm Rahul. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 <h1 align='center'>
   Hi there 👋🏾 I'm Rahul
