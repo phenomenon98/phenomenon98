@@ -1,9 +1,9 @@
-![Hey, I'm Rahul](hhttps://github.com/phenomenon98/phenomenon98/blob/master/githubgif.gif)
-<p align='center'>
+![Hey, I'm Rahul](https://github.com/phenomenon98/phenomenon98/blob/master/githubgif.gif)
+
   - 🌱 I’m currently learning Product Management. Would appreciate any advice/tips 😄
   - 📫 You can reach me at <a href='mailto:writetorahulmenon@gmail.com'>my email</a>.
   - 💻 Interested in Data Science. PyTorch is my framework of choice.
-</p>
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/rahulmenon98/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
