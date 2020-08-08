@@ -1,4 +1,4 @@
-![Hey, I'm Rahul](https://github.com/phenomenon98/phenomenon98/blob/master/githubgif.gif)
+<p align = "cemter">![Hey, I'm Rahul](https://github.com/phenomenon98/phenomenon98/blob/master/githubgif.gif)</p>
 
   - 🌱 I’m currently learning Product Management. Would appreciate any advice/tips 😄
   - 📫 You can reach me at <a href='mailto:writetorahulmenon@gmail.com'>my email</a>.
