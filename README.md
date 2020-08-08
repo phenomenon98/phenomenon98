@@ -4,7 +4,7 @@
   - 📫 You can reach me at <a href='mailto:writetorahulmenon@gmail.com'>my email</a>.
   - 💻 Interested in Data Science. PyTorch is my framework of choice.
 
-<p align='center'>
+<p align='left'>
   <a href="https://www.linkedin.com/in/rahulmenon98/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
