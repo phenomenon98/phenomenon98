@@ -1,4 +1,4 @@
-![Hey, I'm Rahul](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)<h1 align='center'>
+![Hey, I'm Rahul](hhttps://github.com/phenomenon98/phenomenon98/blob/master/githubgif.gif)<h1 align='center'>
 
 <p align='center'>
   - 🌱 I’m currently learning Product Management. Would appreciate any advice/tips 😄
