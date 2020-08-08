@@ -1,14 +1,9 @@
-### Hey , I'm Rahul!
+![Hey, I'm Rahul](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)<h1 align='center'>
 
-
-<h1 align='center'>
-  Hi there 👋🏾 I'm Rahul
-</h1>
 <p align='center'>
-  Interested in evrything Product and Data.
-  
-</p>
-  📫 You can reach me at <a href='mailto:writetorahulmenon@gmail.com'>alexandreslima@outlook.com</a>
+  - 🌱 I’m currently learning Product Management. Would appreciate any advice/tips 😄
+  - 📫 You can reach me at <a href='mailto:writetorahulmenon@gmail.com'>my email</a>.
+  - 💻 Interested in Data Science. PyTorch is my framework of choice.
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/rahulmenon98/">
