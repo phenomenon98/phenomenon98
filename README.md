@@ -16,7 +16,7 @@
   
 </p>
 
-  - 🌱 I’m currently learning Product Management. Would appreciate any advice/tips 😄
+  - 🌱 I’m currently learning Product Management. Would appreciate any advice/tips :)
   - 📫 You can reach me at <a href='mailto:writetorahulmenon@gmail.com'>my email</a>.
   - 💻 Interested in Data Science. PyTorch is my framework of choice.
 
